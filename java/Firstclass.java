@@ -6,9 +6,9 @@ class Firstclass{
         char initial='Z';
         boolean status=true;
 
-        // System.out.println(str+digit+price+" "+initial+"'s love status"+status);
+        // System.out.println(str+digit+price+" "+initial+"'s status"+status);
 
-        return String.format("%s%d%.2f %c's love status: %s", str, digit, price, initial, status);
+        return String.format("%s%d%.2f %c's status: %s", str, digit, price, initial, status);
 
     }
     public void display(String val){
