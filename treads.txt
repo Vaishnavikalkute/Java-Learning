@@ -10,6 +10,9 @@ start
 creatinf java thread
 1.implemteing the runnable interface
 
-
+public class runthread implements Runnable{
+}
 
 2.by using extend keyword
+public class runthread extends Thread{
+}
