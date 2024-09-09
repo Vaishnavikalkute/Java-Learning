@@ -1,0 +1,8 @@
+classcast
+indexoutboutnd
+negativearraysize
+numberformatexcpetion
+stringindexout ofboound
+illigal class
+write a program to create exceptions by creating user defined exceptions
+create a thread using extend and run with output as thread1 is created.

@@ -1,0 +1,15 @@
+getName()- obtain the thread getName
+getPriority()
+isALive()
+join  - wait for thread is terminated
+run
+sleep
+start
+
+
+creatinf java thread
+1.implemteing the runnable interface
+
+
+
+2.by using extend keyword
